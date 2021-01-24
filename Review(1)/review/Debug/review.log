@@ -1,0 +1,4 @@
+﻿  Interensing question.c
+F:\SEM 2 Fundamental Year\C Language\review\review\Interensing question.c(5,9): warning C4129: 'c': unrecognized character escape sequence
+Debug\(1).obj : warning LNK4042: object specified more than once; extras ignored
+  review.vcxproj -> F:\SEM 2 Fundamental Year\C Language\review\Debug\review.exe

@@ -1,0 +1,3 @@
+﻿  (1).cpp
+x64\Debug\(1).obj : warning LNK4042: object specified more than once; extras ignored
+  review.vcxproj -> F:\SEM 2 Fundamental Year\C Language\review\x64\Debug\Review(1).exe
