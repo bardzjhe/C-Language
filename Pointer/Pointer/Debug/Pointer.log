@@ -1,0 +1,4 @@
+﻿  Pointers(1).c
+F:\SEM 2 Fundamental Year\C Language\Pointer\Pointer\Pointers(1).c(14,19): warning C4047: '=': 'char' differs in levels of indirection from 'char [12]'
+F:\SEM 2 Fundamental Year\C Language\Pointer\Pointer\Pointers(1).c(17,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void **'
+  Pointer.vcxproj -> F:\SEM 2 Fundamental Year\C Language\Pointer\Debug\Pointer.exe
